@@ -20,8 +20,9 @@ This project implements the classic Snake game using C++. It includes the follow
    make
    ./main
 ### Without Using Makefile:
-1. Compile the main.cpp file using a C++ compiler like g++:
-  - g++ -o main main.cpp
-  - ./main
+1. Compile the main.cpp file using a C++ compiler like g++ or clang++:
+    ```bash
+   clang++ -o main main.cpp
+    ./main
 
 
